@@ -24,7 +24,7 @@ function LoadMap(){
             zoom: 11
         });
 
-        AddGeoJSONLayer();
+        //AddGeoJSONLayer();
       const graphicsLayer = new GraphicsLayer();
       map.add(graphicsLayer);
      
